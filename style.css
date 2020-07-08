@@ -1,0 +1,53 @@
+h1{
+    font-size: 48px;
+}
+p{
+    font-size: 16px;
+}
+.bg-honeydew{
+    background-color:#F0FFF0;
+}
+.honeydew{
+  color:#21B573;
+}
+.btn{
+    background: #21B573;
+    border: none;
+    color: white !important;
+    border-radius: 33px;
+    padding: 10px 36px;
+}
+.container{
+    margin-bottom: 100px !important;
+}
+.book-col{
+    background-color: #F8FFFB;
+    padding: 50px 50px;
+    border-radius: 10px;
+}
+.box-shadow{
+    box-shadow: 5px 5px 20px rgba(0,0,0,.2);
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 20px rgba(0,0,0,.2);
+}
+.card-footer{
+    border: none;
+    background: transparent;
+}
+footer{
+    background-color:  #282531;
+    color: white;
+    padding: 100px 0px;
+}
+ul li{
+    list-style-type: none;
+    font-size: 18px;
+    line-height: 30px;
+}
+ul{
+    padding: 0;
+}
